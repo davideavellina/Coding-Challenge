@@ -1,0 +1,93 @@
+body{
+  background-image:url("immagini HTML/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 2%;
+  margin-bottom: 6%;
+}
+.contenitore{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2%;
+  width: 68%;
+  margin: auto;
+  margin-bottom: 4%;
+}
+
+h1{
+  color: #00EE00;
+  text-align: center;
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+img{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10%;
+}
+header > div{
+  text-align: center;
+  background-color: #00EE00;
+  width: 85%;
+  margin: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+
+h2{
+  display: inline-block;
+  color: white;
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+section > div{
+  margin: 4%;
+}
+
+
+p{
+  margin: 0;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+}
+
+div:first-child p{
+  color: white;
+  display: inline-block;
+}
+.arrow {
+    color: white;
+    display:inline-block;
+}
+
+.caricaGino22{
+  width: 290px;
+  height: 22px;
+  background-color: #FFA54F;
+  color: #FFA54F;
+  display: block;
+  border-radius: 6%;
+}
+
+.caricaMike24{
+  width: 500px;
+  height: 22px;
+  background-color: #008B00;
+  color: #008B00;
+  display: block;
+  border-radius: 6%;
+}
+
+.monopattinoFede{
+  padding-bottom: 10%;
+}
+.caricaFede154{
+  width: 120px;
+  height: 22px;
+  background-color: #A52A2A;
+  color: #A52A2A;
+  display: block;
+  border-radius: 8%;
+}
